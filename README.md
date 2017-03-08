@@ -1,0 +1,2 @@
+# FlexibleSearchQueryBuilder
+QueryBuilder for Hybris FlexibleSearchQueries
